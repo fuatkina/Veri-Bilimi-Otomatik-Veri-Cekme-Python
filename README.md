@@ -6,6 +6,6 @@ Bu sayfa Mimar Sinan Üniversitesi Sosyoloji Konferansı kapsamında gerçekleş
 
 Katılımcıların atölyeden önce "Ön Hazırlık" başlıklı dökümanın üzerinden geçmeleri ve programa hazırlıklı gelmeleri bekleniyor. Katılımcıların Python programı ile çalışmak içi Jupyter Notebook kurmalarına gerek yok. Google halihazırda Colab uygulaması ile bir indirme veya kurma işlemi olmadan Notebook oluşturma ve çalıştırmaya imkan tanıyor. Bunun için takip eden linke tıklamak (https://colab.research.google.com/) ve bir Google hesabına sahip olmak yeterli. İlgili sayfada sıfırdan yeni bir Notebook oluşturabilir, bilgisayarınıza indirdiğiniz ipynb uzantılı bir Notebook dökümanını açabilir, veya Github üzerinden sadece link kopyalarak ilgili dökümana ulaşabilirsiniz.
 
-Yine de Python'ı bilgisayarınıza kurmak isterseniz yukardaki dökümanlar arasından "Kurulum" başlıklı dökümanı inceleyebilirsiniz.
+Yine de Python'ı bilgisayarınıza kurmak isterseniz yukardaki dökümanlar arasından "Kurulum, Nereden ve Nasıl Başlamalı" başlıklı dökümanı inceleyebilirsiniz.
 
 İyi eğlenceler :)
